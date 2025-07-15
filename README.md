@@ -133,4 +133,4 @@ This project is provided for educational and demonstration purposes.
 
 ---
 
-Feel free to fork the project, raise issues, or contribute suggestions.
+Feel free to reach me out on github, fork the project, raise issues, or contribute suggestions.
