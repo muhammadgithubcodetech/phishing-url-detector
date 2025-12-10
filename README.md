@@ -33,7 +33,7 @@ The model uses real-time extractable features such as:
 ### 1. Clone or Download Repository
 
 ```bash
-git clone https://github.com/yourusername/phishing-url-detector.git
+git clone https://github.com/muhammadgithubcodetech/phishing-url-detector.git
 cd phishing-url-detector
 ```
 
